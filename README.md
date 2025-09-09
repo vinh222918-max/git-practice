@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Từ Công Vinh>,MSSV<222918>.
+Đây là README từ nhánh conflict-demo.
